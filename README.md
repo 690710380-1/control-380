@@ -14,7 +14,7 @@ Build a personal website
 -Artificial Intelligence
 -Game Development
 
-##skill
+## skill
 - Problem solving
 - Python basics
 - Teamwork
