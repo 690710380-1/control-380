@@ -13,3 +13,8 @@ Build a personal website
 # Technology Interests
 -Artificial Intelligence
 -Game Development
+
+## skill
+- Problem solving
+- Python basics
+- Teamwork
